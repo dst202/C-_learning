@@ -6,3 +6,6 @@ cherrey
 orange
 tomato
 pineapple
+egg
+pork
+chicken
