@@ -5,3 +5,4 @@ banana
 cherrey
 orange
 tomato
+pineapple
